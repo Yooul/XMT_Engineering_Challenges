@@ -51,6 +51,6 @@ If you have any questions regarding these challenges or have suggestions/feedbac
 Go forth and hammer out some bangin new web app! 🔨
 
 [create-nuxt-app]: https://nuxtjs.org/guide/installation/
-[open-pull-request]: https://github.com/Akkadu/Akkadu_Challenges/compare
-[pull-request-template]: https://github.com/Akkadu/Akkadu_Challenges/blob/master/.github/pull_request_template.md
+[open-pull-request]: https://github.com/Youul/XMT_Engineering_Challenges/compare
+[pull-request-template]: https://github.com/Youul/XMT_Engineering_Challenges/blob/master/.github/pull_request_template.md
 [codebender828]: https://github.com/codebender828
