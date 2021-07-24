@@ -46,7 +46,7 @@ We've listed two different challenges below for you. The details for each challe
 - Fill out the [pull request template][pull-request-template] and assign [codebender828][codebender828] as a reviewer.
 - I'll add my comments, deploy it, test it, and approve or request changes based on my experience.
 
-If you have any questions regarding these challenges or have suggestions/feedback, feel free to [email me](mailto:jonas@akkadu-team.com?subject=Akkadu%20Challenges%20Feedback) 🤓
+If you have any questions regarding these challenges or have suggestions/feedback, feel free to [email me](mailto:jonas@xmt.chat?subject=Akkadu%20Challenges%20Feedback) 🤓
 
 Go forth and hammer out some bangin new web app! 🔨
 
