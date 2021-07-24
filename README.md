@@ -1,6 +1,6 @@
-[![Akkadu Logo](assets/akkadu-logo.png)](https://app.akkadu.com)
 
-# Welcome to Akkadu Challenges 👋
+
+# Welcome to XMT Engineering Challenges 👋
 
 > Challenges provided by the Akkadu team for the recruitment of new applicants
 
@@ -31,9 +31,9 @@ Find a problem with these challenges? Feel free to check our [Issues page][issue
 
 ## Authors
 
-👤 [**JT Houk**][jt]
 
-👤 [**Tuomo Nieminen**][tuomo]
+
+
 
 👤 [**Jonathan Bakebwa**][jonas]
 
@@ -54,8 +54,7 @@ This project is [MIT][mit] licensed.
 [code-of-conduct]: https://github.com/Akkadu/Akkadu_Challenges/blob/master/CODE_OF_CONDUCT.md
 [contributing]: https://github.com/Akkadu/Akkadu_Challenges/blob/master/.github/contributing.md
 [issues]: https://github.com/Akkadu/Akkadu_Challenges/issues
-[mit]: https://github.com/Akkadu/Akkadu_Challenges/blob/release/alpha/LICENSE
+[mit]: https://github.com/Akkadu/Akkadu_Challenges/blob/releasENSE
 
-[jt]: https://github.com/Pterobyte
-[tuomo]: https://github.com/TNieminen
+
 [jonas]: https://github.com/codebender828
