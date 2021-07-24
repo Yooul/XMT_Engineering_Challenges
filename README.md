@@ -13,7 +13,7 @@
 
 Select a position below and read the instructions
 
-- [Media Streaming Engineer][media-streaming-engineer]
+
 - [Front End Engineer][front-end-engineer]
 - [Full Stack Engineer][full-stack-engineer]
 
