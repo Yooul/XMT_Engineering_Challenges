@@ -2,7 +2,7 @@
 
 # Welcome to XMT Engineering Challenges 👋
 
-> Challenges provided by the Akkadu team for the recruitment of new applicants
+> Challenges provided by the XMT Engineering team for the recruitment of new applicants
 
 ### 🏠 [Homepage][homepage]
 
